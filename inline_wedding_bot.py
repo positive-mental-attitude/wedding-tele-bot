@@ -146,7 +146,6 @@ class InlineWeddingBot:
             "schedule": """📅 27 Sep 2025
 🍸 6:30 PM Cocktail
 🍽️ 7:15 PM To be Seated
-🌙 10:40 PM End
 🎉 11:00 PM Afterparty @ OSG Suntec""",
 
             "transport": """🚇 MRT: Esplanade Station (4 min walk)
