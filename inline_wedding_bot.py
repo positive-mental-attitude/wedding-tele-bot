@@ -163,7 +163,7 @@ class InlineWeddingBot:
 🤵 Paul: @ywp_88
 👧 Ching Yee (OIC): @chingyljy
 👦 Samuel (2IC): @butterandink
-👦 Zen (Emcee): @zenzcky""",
+""",
 
             "help": """8️⃣8️⃣8️⃣ Bring $2 or $10 notes for lucky draw! The more you bring, the more ballots you have ;) 
 """
