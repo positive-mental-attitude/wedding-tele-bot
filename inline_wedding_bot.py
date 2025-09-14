@@ -145,7 +145,7 @@ class InlineWeddingBot:
 
             "schedule": """📅 27 Sep 2025
 🍸 6:30 PM Cocktail
-🍽️ 7:30 PM Dinner
+🍽️ 7:15 PM To be Seated
 🌙 10:40 PM End
 🎉 11:00 PM Afterparty @ OSG Suntec""",
 
